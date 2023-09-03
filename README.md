@@ -1,4 +1,4 @@
-# My Medium Blogs 📚
+# Swetha's Medium Blogs 📚
 
 Welcome to my GitHub profile! Below, you'll find a list of my Medium blogs related to Azure and cloud computing. Feel free to explore these articles to learn more about various Azure services and best practices. 🚀
 
